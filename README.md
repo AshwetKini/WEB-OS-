@@ -32,8 +32,8 @@ A modern, interactive desktop operating system interface built with React, TypeS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/webos-desktop.git
-cd webos-desktop
+git clone https://github.com/AshwetKini/WEB-OS-.git
+cd WEB-OS
 ```
 
 2. Install dependencies:
